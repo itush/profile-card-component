@@ -69,7 +69,7 @@ padding: 5% 0% 10% 0%;}
      main{
          margin: 20% 10%;
      }
-
+     h1, .stat1, .stat2 {font-size: large;}
      body {
         background-position: 140% 150%, -30% -120%; 
      }
